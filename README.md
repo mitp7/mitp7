@@ -15,10 +15,6 @@ Welcome to my profile! I'm a computer engineering student @McMaster University. 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitp7&theme=nord&column=7)](https://github.com/mitp7/github-profile-trophy)
-
 ## 🗂️ Recent Projects
 
 <a href="https://github.com/mitp7/Fylo-LandingPage">
@@ -29,6 +25,9 @@ Welcome to my profile! I'm a computer engineering student @McMaster University. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Testimonial-Grid&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Testimonial-Grid" />
 </a>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitp7&theme=nord&column=7)](https://github.com/mitp7/github-profile-trophy)
 
 <!--
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
