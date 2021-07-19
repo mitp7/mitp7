@@ -1,12 +1,18 @@
 # Hi I'm Mit 👋
-Welcome to my profile! I'm a computer engineering student @McMaster University. I'm also working on some side projects, currently learning more about JavaScript and back-end development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mit7/)!
 
-[![Linkedin Badge](https://img.shields.io/badge/-mit7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mit7/)](https://www.linkedin.com/in/mit7/)
-[![Gmail Badge](https://img.shields.io/badge/-mitpatel2752-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mitpatel2752@gmail.com)](mailto:mitpatel2752@gmail.com)
+Welcome to my profile! I'm a student at [McMaster University](https://www.mcmaster.ca/). I'm also working on some side projects, currently learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mit7/)!
+
+- 🔭 Second year **Computer Engineering** student at McMaster
+- 🌱 I’m currently learning **Javascript** and the various `.js` frameworks
+- 🏗️ I’m looking to collaborate on **Open Source** projects
+
+### 📬 Get In Touch
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mitp7)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mit7/)](https://www.linkedin.com/in/mit7/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mitpatel2752@gmail.com)](mailto:mitpatel2752@gmail.com)
 
 
 ## 🔧 Tools & Technologies I Use
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -25,8 +31,8 @@ Welcome to my profile! I'm a computer engineering student @McMaster University. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Testimonial-Grid&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Testimonial-Grid" />
 </a>
 
-## 🏆 GitHub Trophies
-
+## 🏆 Github Stats
+![Mit's github stats](https://github-readme-stats.vercel.app/api?username=mitp7&show_icons=true&hide=[%22issues%22])
 [![trophy](https://github-profile-trophy.vercel.app/?username=mitp7&theme=nord&column=7)](https://github.com/mitp7/github-profile-trophy)
 
 <!--
