@@ -1,8 +1,9 @@
 # Hello, I'm Mit 👋 <br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mit7/)](https://www.linkedin.com/in/mit7/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patem97@mcmaster.ca)](mailto:patem97@mcmaster.ca)
 
-#### Welcome to my profile! 
+### Welcome to my profile! 
 I'm a student at McMaster University. I'm currently working on some side projects, and learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mit7/)!
 
+#### More About Me
 - 📚 Second year **Computer Engineering** student at McMaster
 - ⚙️ Currently learning **Javascript** and the various `.js` frameworks such as `Node.js`
 - 🏗️ Looking to collaborate on more **Open Source** projects
