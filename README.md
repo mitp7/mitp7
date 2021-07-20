@@ -30,7 +30,7 @@ I'm a student at McMaster University. Currently working on some side projects, a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Testimonial-Grid&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Testimonial-Grid" /> 
 </a>
 
-###
+####
 <a href="https://github.com/mitp7/Sort-Recycle-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Sort-Recycle-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Sort-Recycle-System" /> 
 </a>
