@@ -4,7 +4,7 @@
 I'm a student at McMaster University. Currently working on some side projects, and learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mit7/)!
 
 #### More About Me
-- 📚 Second year **Computer Engineering** student at McMaster
+- 📚 Second year **Computer Engineering** student at McMaster University
 - ⚙️ Currently learning **Javascript** and the various `.js` frameworks such as `Node.js`
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
