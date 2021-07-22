@@ -5,7 +5,7 @@ I'm a student at McMaster University. Currently working on some side projects, a
 
 #### More About Me
 - 📚 Second year **Computer Engineering** student at McMaster University
-- ⚙️ Currently learning **Javascript** and the various `.js` frameworks such as `Node.js`
+- ⚙️ Currently learning **Javascript** and the various `js` frameworks such as `React js`
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
 
