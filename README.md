@@ -5,7 +5,7 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 
 #### More About Me
 - 📚 Second year **Computer Engineering** student at McMaster University
-- ⚙️ Currently learning how to use APIs
+- ⚙️ Currently learning how to use **APIs** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
 
