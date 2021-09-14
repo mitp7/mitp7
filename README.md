@@ -1,4 +1,4 @@
-# Hello, I'm Mit 👋 <br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mit7/)](https://www.linkedin.com/in/mit7/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patem97@mcmaster.ca)](mailto:patem97@mcmaster.ca)
+# Hello, I'm Mit 👋
 
 ### Welcome to my profile! 
 I'm a student at McMaster University. Currently working on projects, and learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/mit7/)
@@ -8,21 +8,35 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 - ⚙️ Currently learning more about **APIs** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
-## 🔧 Tools & Technologies I Use
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+## 🔧 Skills & Tools
 
-## 📊 GitHub Stats
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white&color=darkblue">
+</a>
+<a href="https://html.com/">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+<a href="https://nodejs.org/en/">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+## 📊 My GitHub Stats
 ###
 ![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitp7&layout=compact&bg_color=22272E&text_color=8A919A&title_color=69A5F7)](https://github.com/mitp7/github-readme-stats)
-
+<br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mit7/)](https://www.linkedin.com/in/mit7/)
 ## 🗂️ Recent Projects
 ####
 <a href="https://github.com/mitp7/Fylo-LandingPage">
@@ -36,6 +50,15 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 <a href="https://github.com/mitp7/Sort-Recycle-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Sort-Recycle-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Sort-Recycle-System" /> 
 </a>
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
