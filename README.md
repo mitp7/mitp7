@@ -5,7 +5,7 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 
 #### More About Me
 - 📚 Second year **Computer Engineering** student at McMaster University
-- ⚙️ Learning more about **APIs** 
+- ⚙️ Currently learning more about **APIs** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
 ## 🔧 Tools & Technologies I Use
@@ -17,6 +17,9 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
+###
+![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitp7&layout=compact&bg_color=22272E&text_color=8A919A&title_color=69A5F7)](https://github.com/mitp7/github-readme-stats)
 
 ## 🗂️ Recent Projects
@@ -32,10 +35,6 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 <a href="https://github.com/mitp7/Sort-Recycle-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Sort-Recycle-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Sort-Recycle-System" /> 
 </a>
-
-###
-![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
-<!--
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
