@@ -17,6 +17,7 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
+## 📊 GitHub Stats
 ###
 ![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
 <!--
