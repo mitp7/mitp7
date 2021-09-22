@@ -8,7 +8,7 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 - ⚙️ Currently learning more about **APIs** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
-## 🔧 Skills & Tools
+## 🔧 Technologies & Tools
 
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white&color=darkblue">
