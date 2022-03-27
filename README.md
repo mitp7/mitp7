@@ -8,6 +8,10 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 - ⚙️ Currently learning more about **APIs** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
+
+
+<!--
+
 ## 🔧 Technologies & Tools
 
 <a href="https://www.python.org/">
@@ -32,8 +36,6 @@ I'm a student at McMaster University. Currently working on projects, and learnin
   <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-
-<!--
 ## 📊 My GitHub Stats
 ###
 ![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
