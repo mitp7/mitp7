@@ -4,9 +4,8 @@
 I'm a student at McMaster University. Currently working on projects, and learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/mit7/)
 
 #### More About Me
-- 📚 Second year **Computer Engineering** student at McMaster University
-- ⚙️ Currently learning more about **APIs** 
-- 🏗️ Looking to collaborate on more **Open Source** projects
+- 📚 Third year **Computer Engineering** student at McMaster University.
+- ⚙️ Currently an intern at Geotab as a front end developer.
 
 
 
