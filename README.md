@@ -92,7 +92,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>This is a rock, paper, and scissors game which was created to learn JavaScript and DOM manipulation.</p>
+		    <p>This is a rock, paper, and scissors game which I created to learn more about JavaScript and how to interact with components using DOM manipulation.</p>
                 </div>
             </td>
             <td width="50%">
@@ -112,7 +112,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, JavaScript</strong></p>
-		    <p>Fylo is a web template that I created targeting companies that work with online cloud services. This is available for anyone to use and showcase their business.</p>
+		    <p>Fylo is a web template that I created targeting companies that provide online cloud services. This is available for anyone to use and showcase their business.</p>
                 </div>	
             </td>
         </tr>
