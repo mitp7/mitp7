@@ -35,8 +35,8 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 			<td width="50%">
 				<h3 align="center">Surely Insured</h3>
 				<div align="center">  
-					<a href='https://devpost.com/software/surely-insured' target="_blank">
-						<img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/surely_insured_mockup.png" alt="project 1" height="100%" />
+					<a href='https://devpost.com/software/surely-insured' >
+						<img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br>
 					<br>
