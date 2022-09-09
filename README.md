@@ -36,7 +36,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 				<h3 align="center">Surely Insured</h3>
 				<div align="center">  
 					<a href='https://devpost.com/software/surely-insured' >
-						<img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="surely_insured_mockup.png" alt="project 1 target="_blank"" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -58,7 +58,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 				<h3 align="center">We Town</h3>
 				<div align="center" >  
 					<a href='https://devpost.com/software/we-town' target="_blank">
-						<img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/we_town_mockup.png" alt="project 2" height="100%" />
+						<img src="we_town_mockup.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -79,7 +79,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
                 <h3 align="center">Rock Paper Scissors</h3>
                 <div align="center" >  
                     <a href='https://mitp7rps.netlify.app/' target="_blank">
-                        <img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/rps_mockup.png" alt="project 3" height="100%" />
+                        <img src="rps_mockup.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -99,7 +99,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
                 <h3 align="center">Fylo</h3>
                 <div align="center">  
                     <a href='https://fylo-template.netlify.app/' target="_blank">
-                        <img src="https://github.com/mitp7/Portfolio/blob/main/assets/png/fylo_mockup.png" alt="project 4" height="100%" />
+                        <img src="fylo_mockup.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
