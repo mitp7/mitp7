@@ -7,7 +7,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 
 <!-- TECHS -->
 
-<h3 align="left">Technologies & Tools</h3>
+<!-- <h3 align="left">Technologies & Tools</h3>
 
 <div align="center">
                 <br>
@@ -24,7 +24,7 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 </div>
 
 <br>
-<hr>
+<hr> -->
 
 <!-- PROJECTS -->
 
