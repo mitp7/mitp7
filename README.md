@@ -76,6 +76,23 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
         </tr>
 	    <tr>
             <td width="50%">
+                <h3 align="center">Time of Flight LIDAR System</h3>
+                <div align="center">  
+                    <a href='https://github.com/mitp7/2DX4_FinalProject' target="_blank">
+                        <img src="sensor.png" alt="project 4" width="85%" height="40%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/mitp7/2DX4_FinalProject" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  	
+                    </p>
+                    <p><strong>C, Python (Open3D Library), MSP432E401Y µController</strong></p>
+		    <p>A LIDAR prototype that maps out rooms by utilizing a time-of-flight sensor and a MSP432E401Y microcontroller programmed in C with the use of Keil µVision IDE.</p>
+                </div>	
+            </td>
+            <td width="50%">
                 <h3 align="center">Rock Paper Scissors</h3>
                 <div align="center" >  
                     <a href='https://mitp7rps.netlify.app/' target="_blank">
@@ -95,6 +112,8 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
 		    <p>This is a rock, paper, and scissors game which I created to learn more about JavaScript and how to interact with components using DOM manipulation.</p>
                 </div>
             </td>
+        </tr>
+	    <tr>
             <td width="50%">
                 <h3 align="center">Fylo</h3>
                 <div align="center">  
