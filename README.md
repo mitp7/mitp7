@@ -78,13 +78,13 @@ I'm a third year Computer Engineering student at McMaster University. Currently 
             <td width="50%">
                 <h3 align="center">Time of Flight LIDAR System</h3>
                 <div align="center">  
-                    <a href='https://github.com/mitp7/2DX4_FinalProject' target="_blank">
+                    <a href='https://github.com/mitp7/Lidar_Scanning_System' target="_blank">
                         <img src="sensor.png" alt="project 4" width="85%" height="40%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/mitp7/2DX4_FinalProject" target="_blank">
+                        <a href="https://github.com/mitp7/Lidar_Scanning_System" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  	
                     </p>
