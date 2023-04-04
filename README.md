@@ -1,6 +1,6 @@
 # Hello, I'm Mit 👋
 ### Welcome to my profile! 
-I'm a third year Computer Engineering student at McMaster University. Currently working on personal projects, and learning more about front-end and back-end development. Thanks for visiting and feel free to check out my personal/hackathon projects below.
+I'm a Computer Engineering student at McMaster University. Currently working on personal projects, and learning more about front-end and back-end development. Thanks for visiting and feel free to check out my personal/hackathon projects below.
 
 <hr>
 
