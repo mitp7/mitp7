@@ -3,7 +3,7 @@
 I'm a Computer Engineering student at McMaster University. Currently working on personal projects, and learning more about front-end and back-end development. Thanks for visiting and feel free to check out my projects below.
 
 #### 💻 Past roles:
-- [Engineering Support Intern (Front-end) @ Geotab](https://www.geotab.com/) - Summer 2021
+- [Engineering Support Intern (Front-end) @ Geotab](https://www.geotab.com/) - Summer 2022
 
 #### 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/mit7/
