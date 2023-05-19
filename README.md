@@ -8,7 +8,6 @@ I'm a Computer Engineering Student at McMaster University, passionate about fron
 #### 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/mit7/
 - Email: patem97@mcmaster.ca
-- Devpost: https://devpost.com/mitpatel2752
 
 <h4 align="left">⚙️ Projects</h4>
 <div align="center">
