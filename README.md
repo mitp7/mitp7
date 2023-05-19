@@ -1,6 +1,6 @@
 # Hello, I'm Mit 👋
 #### Welcome to my profile! 
-I'm a Computer Engineering student at McMaster University. Currently working on personal projects, and learning more about front-end and back-end development. Thanks for visiting and feel free to check out my projects below.
+I'm a Computer Engineering Student at McMaster University, passionate about front-end development and dedicated to creating user-friendly web experiences. Thanks for visiting and feel free to check out my projects below.
 
 #### 💻 Past roles:
 - [Engineering Support Intern (Front-end) @ Geotab](https://www.geotab.com/) - Summer 2022
