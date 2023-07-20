@@ -2,9 +2,6 @@
 #### Welcome to my profile! 
 I'm a Computer Engineering Student at McMaster University, passionate about front-end development and dedicated to creating user-friendly web experiences. Thanks for visiting and feel free to check out my projects below.
 
-#### 💻 Past roles:
-- [Support Engineer Intern (Front-end) @ Geotab](https://www.geotab.com/) - Summer 2022
-
 #### 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/mit7/
 - Email: patem97@mcmaster.ca
