@@ -1,6 +1,6 @@
 # Hello, I'm Mit 👋
 #### Welcome to my profile! 
-I'm a Computer Engineering Student at McMaster University, passionate about front-end development and dedicated to creating user-friendly web experiences. Thanks for visiting and feel free to check out my projects below.
+I'm a Computer Engineering graduate from McMaster University, passionate about front-end development and dedicated to creating user-friendly web experiences. Thanks for visiting and feel free to check out my projects below.
 
 #### 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/mit7/
