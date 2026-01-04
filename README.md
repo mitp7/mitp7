@@ -4,7 +4,6 @@ I'm a Computer Engineering graduate from McMaster University, passionate about f
 
 #### 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/mit7/
-- Email: patem97@mcmaster.ca
 
 <h4 align="left">⚙️ Projects</h4>
 <div align="center">
